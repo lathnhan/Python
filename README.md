@@ -1,1 +1,1 @@
-A collection of repositories in Python, mostly involving ML and statistical learning
+A collection of repositories mostly involving ML and statistical learning
