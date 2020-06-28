@@ -64,7 +64,7 @@ def ecdf(ser, thresh):
 
     """
 
-    l = len(ser)
+    l = len(ser) 
 
     return pd.Series(data=[(float((ser <= x).sum())) / l for x in thresh], index=thresh)
 
